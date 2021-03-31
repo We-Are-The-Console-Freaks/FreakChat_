@@ -1,6 +1,6 @@
 print('')
 print('Freak Chat [Version 0.19.78483]')
-print('Coded by We-Are-The-Console-Freaks;)
+print('Coded by We-Are-The-Console-Freaks')
 print('')
 
 import requests
@@ -13,7 +13,7 @@ def anonymous_chat():
 
     headers = {
         'Host': 'chatroll.com',
-        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0',
+        'User-Agent': 'Chrome/91.0 (X11; Android x86_64; rv:1.0) Gecko/20100101 Firefox/75.0',
         'Accept': '*/*',
         'Accept-Language': 'en-US,en;q=0.5',
         'Accept-Encoding': 'gzip, deflate',
